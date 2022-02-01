@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641205809680,
+  "timestamp": 1643722010429,
   "index": "/loewenherz-meals/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/loewenherz-meals/favicon.ico",
         "/loewenherz-meals/index.html",
-        "/loewenherz-meals/main.d4a0aeb566a6e6be7343.js",
+        "/loewenherz-meals/main.984cd887a17175eea34e.js",
         "/loewenherz-meals/manifest.webmanifest",
-        "/loewenherz-meals/polyfills.e84a8585abcbc26a4299.js",
+        "/loewenherz-meals/polyfills.a4021de53358bb0fec14.js",
         "/loewenherz-meals/runtime.e227d1a0e31cbccbf8ec.js",
-        "/loewenherz-meals/styles.5f64240b8844884bdba1.css"
+        "/loewenherz-meals/styles.cadcd326c43a13b4563e.css"
       ],
       "patterns": []
     },
@@ -54,12 +54,12 @@
     "/loewenherz-meals/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/loewenherz-meals/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/loewenherz-meals/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/loewenherz-meals/index.html": "ccce331568ab150cb702c6522571da48dc463662",
-    "/loewenherz-meals/main.d4a0aeb566a6e6be7343.js": "d003e71d74815fad883d1b9818188fca24bda29d",
+    "/loewenherz-meals/index.html": "1def385f58315e2745808a2200769b9dfe16d44c",
+    "/loewenherz-meals/main.984cd887a17175eea34e.js": "5a2edcffce4b204a5aa97d3e04d01b0e6764f7c6",
     "/loewenherz-meals/manifest.webmanifest": "b3c7cec7eded814dc81fb69c9ba401a9539ba0c0",
-    "/loewenherz-meals/polyfills.e84a8585abcbc26a4299.js": "39b0152c930bcbd07e7b5069ad9621ac93ffed57",
-    "/loewenherz-meals/runtime.e227d1a0e31cbccbf8ec.js": "2d4e434ba65e3bfa026c21481202c3ad0657f172",
-    "/loewenherz-meals/styles.5f64240b8844884bdba1.css": "43246dfcbcccac512012c28c03fbe841ad14c72d"
+    "/loewenherz-meals/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
+    "/loewenherz-meals/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/loewenherz-meals/styles.cadcd326c43a13b4563e.css": "5fade0cf2b255dd08e6d2fd122602cc9d1691aad"
   },
   "navigationUrls": [
     {
