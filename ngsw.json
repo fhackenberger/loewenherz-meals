@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659343802045,
+  "timestamp": 1662017193568,
   "index": "/loewenherz-meals/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/loewenherz-meals/favicon.ico",
         "/loewenherz-meals/index.html",
-        "/loewenherz-meals/main.a87cb97391eb1c6ab5a9.js",
+        "/loewenherz-meals/main.db692e44db7d36e41fa3.js",
         "/loewenherz-meals/manifest.webmanifest",
         "/loewenherz-meals/polyfills.a4021de53358bb0fec14.js",
         "/loewenherz-meals/runtime.e227d1a0e31cbccbf8ec.js",
@@ -54,8 +54,8 @@
     "/loewenherz-meals/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/loewenherz-meals/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/loewenherz-meals/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/loewenherz-meals/index.html": "a21ab143cb2961254fd1a724ca4fe9294a5b4641",
-    "/loewenherz-meals/main.a87cb97391eb1c6ab5a9.js": "566be235877b0818bb8ff0023bbdcc56a62325cf",
+    "/loewenherz-meals/index.html": "1b26f4c58b7bf68f00c593fe69f3c79f1c1af7bf",
+    "/loewenherz-meals/main.db692e44db7d36e41fa3.js": "abd4e70e49a3fd19801b12ac80d92be8a5a6779f",
     "/loewenherz-meals/manifest.webmanifest": "b3c7cec7eded814dc81fb69c9ba401a9539ba0c0",
     "/loewenherz-meals/polyfills.a4021de53358bb0fec14.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/loewenherz-meals/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
